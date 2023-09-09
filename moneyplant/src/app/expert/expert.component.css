@@ -1,0 +1,107 @@
+.component1 {
+    margin-left: 280px;
+    margin-top: 80px;
+}
+
+.component2 {
+    margin-left: 240px;
+}
+
+.checked {
+    color: rgb(50, 216, 89);
+}
+
+.img {
+    border-radius: 100px;
+}
+
+#button1 {
+    background-color: #e2fefe;
+    color: #03546d;
+    border: none;
+    border-radius: 8px;
+}
+
+#mainrow {
+    padding: 40px
+}
+
+#button2 {
+    background-color: #03546d;
+    color: #e2fefe;
+    border: none;
+    border-radius: 12px;
+    width: 80%;
+}
+
+#expert1 {
+    padding: 50px;
+}
+
+#card1 {
+    padding: 40px;
+}
+
+.overlay {
+    /* position: absolute; */
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.confirm {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.content {
+    position: fixed;
+    background-color: #fff;
+    width: 800px;
+    height: 600px;
+    padding: 20px;
+}
+
+.content2 {
+    background-color: #fff;
+    border-radius: 10px;
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+}
+
+.tick {
+    padding-left: 150px;
+}
+
+#checkbox {
+    padding: 20px;
+}
+
+#mob {
+    width: 220px;
+}
+
+#mob1 {
+    width: 380px;
+}
+
+.screen {
+    background-color: #005872;
+    padding: 20px;
+    padding-top: 20px;
+}

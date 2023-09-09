@@ -1,0 +1,50 @@
+#row1 {
+    margin-left: 25px;
+    border: aliceblue;
+    color: white;
+}
+
+#row2 {
+    padding: 35px;
+}
+
+#row3 {
+    margin-left: 10px;
+}
+
+#pic1 {
+    border-radius: 90px;
+    float: left;
+}
+
+#name {
+    float: left;
+}
+
+#cardcontnet {
+    margin-left: 30px;
+}
+
+#answer {
+    margin-left: 30px;
+}
+
+#rowpad {
+    padding: 20px;
+}
+
+.box {
+    padding: 20px;
+    background-color: #03546d;
+}
+
+.box1 {
+    background-color: white;
+    border-radius: 8px;
+}
+
+.button1 {
+    background-color: hsl(143, 87%, 48%);
+    border: none;
+    border-radius: 8px;
+}

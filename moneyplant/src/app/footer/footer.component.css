@@ -1,0 +1,31 @@
+  #footer {
+      background-color: #026a81;
+      position: relative;
+      width: 100%;
+      border-bottom: 100px;
+  }
+
+  #textd {
+      text-decoration: none;
+      align-items: flex-end;
+  }
+
+  #row1 {
+      position: relative;
+      left: 5%;
+  }
+
+  #c1 {
+      text-align: left;
+      white-space: nowrap;
+  }
+
+  #c2 {
+      text-decoration: none;
+  }
+
+  #c3 {
+      margin-left: 20px;
+      text-align: left;
+      white-space: nowrap;
+  }

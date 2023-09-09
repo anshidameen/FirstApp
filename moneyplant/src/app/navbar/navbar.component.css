@@ -1,0 +1,24 @@
+#navshadow{
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);  
+    position: relative; 
+    
+}
+#heading{
+    margin-left: 200px;
+}
+#navbarNav{
+    margin-left: 120px;
+}
+.login{
+    margin-left: 140px;
+}
+#color{
+ background-color: #06b400;
+ font-size: 13px;
+ border-radius: 4px;
+ border: none;
+ color: white;
+ margin-left: 10px;
+ width: 60px;
+}
+    

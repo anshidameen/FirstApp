@@ -1,0 +1,102 @@
+.component1 {
+    margin-left: 280px;
+    margin-top: 80px;
+}
+
+.container {
+    margin-left: 80px;
+}
+
+.cards {
+    position: relative;
+    height: 350px;
+    width: 85%;
+    left: 5%;
+    top: 50%;
+    background-color: #005872;
+    border-radius: 44px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 160px;
+    /* margin: auto; */
+    text-align: center;
+    font-family: arial;
+    border-radius: 16px;
+}
+
+.knowmore {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#line1 {
+    margin-top: 100px;
+}
+
+#knowmore_b {
+    margin-left: 100px;
+}
+
+#button {
+    background-color: #2ec329;
+    border: none;
+    border-radius: 4px;
+    width: 90px;
+    height: 32px;
+}
+
+.card-body {
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.button1 {
+    background-color: #06b400;
+    border: none;
+    border-radius: 4px;
+}
+
+.line2 {
+    margin-left: 400px;
+    color: #047394;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button2 {
+    margin-top: 10px;
+    background-color: #06b400;
+    border: none;
+    color: aliceblue;
+}
+
+.img {
+    float: right;
+}
+
+#col1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #09455a;
+}
+
+#col2 {
+    color: #04617e;
+}
+
+#button3 {
+    background-color: #034053;
+    color: aliceblue;
+    border: none;
+    border-radius: 4px;
+}
+
+.finadv {
+    background-color: #efeff2;
+}
+
+#row2 {
+    /* background-color: aliceblue; */
+    margin-left: 80px;
+    margin-right: 80px;
+}
